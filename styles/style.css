@@ -11,6 +11,36 @@ header {
     padding: 1em;
     text-align: center;
 }
+.video-container  {
+    position: relative;
+    height:   100vh;
+   width: calc(100% - 200px); /* Réduit la largeur de la vidéo de la largeur de la sidebar */
+    margin-left: 200px; /* Place la vidéo à côté de la sidebar*/
+    overflow: hidden; 
+   
+}
+
+
+.background-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;
+    transform: translate(-50%, -50%);
+} 
+.text-overlay{
+    position:absolute;
+    top: 20px;
+    left:20px;
+    color:white;
+    background-color: rgba(O,0,0,0.5);
+    padding: 10px;
+    font-size: 1.5em;
+}
 
 nav ul {
     list-style-type: none;
@@ -41,15 +71,4 @@ p{
 main {
     padding: 2em;
     text-align: center;
-}
-
-
-footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 1em;
-    position: relative;
-    bottom: 0;
-    width: 100%;
 }
