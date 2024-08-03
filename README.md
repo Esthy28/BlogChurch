@@ -1,4 +1,5 @@
 # BlogChurch
-# Modif a apporter très primordial
-# Tu peux mettre étape par étape ce que tu veux qu'on fasse ici comme ça à la fin on aura un récaptitulatif du travail accompli
-# Mettre la vidéo en couverture de la page d'acceuil mais en orientation horizontale
+# Modif a apporter trÃ¨s primordial
+# Tu peux mettre Ã©tape par Ã©tape ce que tu veux qu'on fasse ici comme Ã§a Ã  la fin on aura un rÃ©captitulatif du travail accompli.
+# Mettre la vidÃ©o en couverture de la page d'acceuil mais en orientation horizontale (NF)
+# Mise en forme de la page d'acceuil et correctif sur le chevauchement des textes    (NF)
